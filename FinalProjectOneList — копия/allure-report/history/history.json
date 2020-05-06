@@ -1,0 +1,98 @@
+{
+  "a4b4c61188e2cba9ff0af704657fc857" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 1,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "782543e33882d054",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1588785735235,
+        "stop" : 1588785735235,
+        "duration" : 0
+      }
+    } ]
+  },
+  "d3a197d2fae2a631f1bc34021f0340cc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 1,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "eeb56e6f6f248184",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1588785725153,
+        "stop" : 1588785725155,
+        "duration" : 2
+      }
+    } ]
+  },
+  "8dcd76092b4f1ad32c9eb74936e71d84" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 1,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5ebf5b16d844f8b6",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1588785730229,
+        "stop" : 1588785730229,
+        "duration" : 0
+      }
+    } ]
+  },
+  "43dd8e4b11e18f90f48d590b30f388bd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 1,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "19fe1c9fb37efe9c",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1588785740243,
+        "stop" : 1588785740243,
+        "duration" : 0
+      }
+    } ]
+  },
+  "14de3d4aba3e4387bd833989a725a4da" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cff8d52d7980672e",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for presence of element located by: By.xpath: //*[contains(@text,'TODO1')] (tried for 5 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1588785782967,
+        "stop" : 1588785793708,
+        "duration" : 10741
+      }
+    } ]
+  }
+}

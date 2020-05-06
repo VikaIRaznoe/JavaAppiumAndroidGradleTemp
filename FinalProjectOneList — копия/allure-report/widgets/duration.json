@@ -1,0 +1,51 @@
+[ {
+  "uid" : "eeb56e6f6f248184",
+  "name" : "checkFlipScreen",
+  "time" : {
+    "start" : 1588785725153,
+    "stop" : 1588785725155,
+    "duration" : 2
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "cff8d52d7980672e",
+  "name" : "creatureTest",
+  "time" : {
+    "start" : 1588785782967,
+    "stop" : 1588785793708,
+    "duration" : 10741
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5ebf5b16d844f8b6",
+  "name" : "modificationTest",
+  "time" : {
+    "start" : 1588785730229,
+    "stop" : 1588785730229,
+    "duration" : 0
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "19fe1c9fb37efe9c",
+  "name" : "goToSettingsPageTest",
+  "time" : {
+    "start" : 1588785740243,
+    "stop" : 1588785740243,
+    "duration" : 0
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+}, {
+  "uid" : "782543e33882d054",
+  "name" : "shareTest",
+  "time" : {
+    "start" : 1588785735235,
+    "stop" : 1588785735235,
+    "duration" : 0
+  },
+  "status" : "unknown",
+  "severity" : "normal"
+} ]

@@ -1,0 +1,94 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Проект #1",
+    "children" : [ {
+      "name" : "Проверка и переворот экрана в OneList",
+      "children" : [ {
+        "name" : "checkFlipScreen",
+        "uid" : "eeb56e6f6f248184",
+        "parentUid" : "a82d5562a054f23d407a2b5aefcac5fb",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1588785725153,
+          "stop" : 1588785725155,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a82d5562a054f23d407a2b5aefcac5fb"
+    }, {
+      "name" : "Модификация в OneList",
+      "children" : [ {
+        "name" : "modificationTest",
+        "uid" : "5ebf5b16d844f8b6",
+        "parentUid" : "9d145e9a65672fd06dd5052b702aa5d0",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1588785730229,
+          "stop" : 1588785730229,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9d145e9a65672fd06dd5052b702aa5d0"
+    }, {
+      "name" : "Share в OneList",
+      "children" : [ {
+        "name" : "shareTest",
+        "uid" : "782543e33882d054",
+        "parentUid" : "c1431b9839703195f5297cb5e5560b4a",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1588785735235,
+          "stop" : 1588785735235,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c1431b9839703195f5297cb5e5560b4a"
+    }, {
+      "name" : "Проверка страницы Settings",
+      "children" : [ {
+        "name" : "goToSettingsPageTest",
+        "uid" : "19fe1c9fb37efe9c",
+        "parentUid" : "45ea0fbdc91d0403840463ac47d686c9",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1588785740243,
+          "stop" : 1588785740243,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "45ea0fbdc91d0403840463ac47d686c9"
+    }, {
+      "name" : "Создание в OneList",
+      "children" : [ {
+        "name" : "creatureTest",
+        "uid" : "cff8d52d7980672e",
+        "parentUid" : "67b2fab27ca7fafe969224694a8a04f1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1588785782967,
+          "stop" : 1588785793708,
+          "duration" : 10741
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "67b2fab27ca7fafe969224694a8a04f1"
+    } ],
+    "uid" : "0d650b312b103adc9c71d88cac8848af"
+  } ]
+}

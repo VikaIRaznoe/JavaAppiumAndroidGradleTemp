@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Expected condition failed: waiting for presence of element located by: By.xpath: //*[contains(@text,'TODO1')] (tried for 5 second(s) with 500 milliseconds interval)",
+      "children" : [ {
+        "name" : "creatureTest",
+        "uid" : "cff8d52d7980672e",
+        "parentUid" : "6e935cbe713ace02f8d8d812e2fadbbc",
+        "status" : "broken",
+        "time" : {
+          "start" : 1588785782967,
+          "stop" : 1588785793708,
+          "duration" : 10741
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6e935cbe713ace02f8d8d812e2fadbbc"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

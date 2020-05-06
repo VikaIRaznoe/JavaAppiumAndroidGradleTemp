@@ -1,0 +1,147 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "MacBook-Pro-Viktoria.local",
+    "children" : [ {
+      "name" : "96977@MacBook-Pro-Viktoria.local.main(1)",
+      "children" : [ {
+        "name" : "creatureTest",
+        "uid" : "fb70d7cef827bce2",
+        "parentUid" : "1a0d723da4e7981b1fab4d8bfc7346eb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1588785648616,
+          "stop" : 1588785665703,
+          "duration" : 17087
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "modificationTest",
+        "uid" : "2a409ecf929a90c3",
+        "parentUid" : "1a0d723da4e7981b1fab4d8bfc7346eb",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1588785597862,
+          "stop" : 1588785597862,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "shareTest",
+        "uid" : "60567fb529320f7a",
+        "parentUid" : "1a0d723da4e7981b1fab4d8bfc7346eb",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1588785602873,
+          "stop" : 1588785602873,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "goToSettingsPageTest",
+        "uid" : "2f08c877b75dd023",
+        "parentUid" : "1a0d723da4e7981b1fab4d8bfc7346eb",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1588785607880,
+          "stop" : 1588785607880,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkFlipScreen",
+        "uid" : "d2258f5a41b86f38",
+        "parentUid" : "1a0d723da4e7981b1fab4d8bfc7346eb",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1588785592786,
+          "stop" : 1588785592787,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1a0d723da4e7981b1fab4d8bfc7346eb"
+    }, {
+      "name" : "97135@MacBook-Pro-Viktoria.local.main(1)",
+      "children" : [ {
+        "name" : "shareTest",
+        "uid" : "782543e33882d054",
+        "parentUid" : "3a9e22c0fd9badcda06926878079219a",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1588785735235,
+          "stop" : 1588785735235,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "creatureTest",
+        "uid" : "cff8d52d7980672e",
+        "parentUid" : "3a9e22c0fd9badcda06926878079219a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1588785782967,
+          "stop" : 1588785793708,
+          "duration" : 10741
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "modificationTest",
+        "uid" : "5ebf5b16d844f8b6",
+        "parentUid" : "3a9e22c0fd9badcda06926878079219a",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1588785730229,
+          "stop" : 1588785730229,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "goToSettingsPageTest",
+        "uid" : "19fe1c9fb37efe9c",
+        "parentUid" : "3a9e22c0fd9badcda06926878079219a",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1588785740243,
+          "stop" : 1588785740243,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkFlipScreen",
+        "uid" : "eeb56e6f6f248184",
+        "parentUid" : "3a9e22c0fd9badcda06926878079219a",
+        "status" : "unknown",
+        "time" : {
+          "start" : 1588785725153,
+          "stop" : 1588785725155,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3a9e22c0fd9badcda06926878079219a"
+    } ],
+    "uid" : "216f544ce3ec8fb342fa592298c1e1d8"
+  } ]
+}
